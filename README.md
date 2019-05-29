@@ -1,4 +1,4 @@
-This project is deployed on Heroku at https://floating-bastion-74165.herokuapp.com
+This project is deployed on Heroku at https://immense-sea-46975.herokuapp.com/
 
 #Usage
 
