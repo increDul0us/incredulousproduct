@@ -6,7 +6,7 @@ const Product = props => (
     <tr>
         <td>{props.product._id}</td>
         <td>{props.product.product_name}</td>
-        <td>{props.product.product_price}</td>
+        <td>${props.product.product_price}</td>
         <td>
             <Link to={"/products/"+props.product._id}>
                 <span className="badge badge-dark">More Details</span>
