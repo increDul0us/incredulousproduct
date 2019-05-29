@@ -1,4 +1,10 @@
 This project is deployed on Heroku at https://immense-sea-46975.herokuapp.com/
+The Database used was the online mongoDb, hence data might not load immediately.
+
+#Future improvements:
+1. Add loader
+2. Add signin and login (Authorisation and Authentication)
+3. Use heroku db to save images so that they can be loaded immediately
 
 #Usage
 
